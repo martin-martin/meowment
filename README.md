@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## What is this?
 
-Things you may want to cover:
+A visual collection of stretching guides for humans, delivered by professionals in this area. 🐱
 
-* Ruby version
+## Information
 
-* System dependencies
+Developed on [cloud9](https://c9.io) using the [Rails Tutorial](http://www.railstutorial.org/) workspace setup.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Dependencies thus follow Michael Hartl's Gemfile for the [sample_app](https://github.com/mhartl/rails_tutorial_4th_edition_gemfiles/blob/master/sample_app/Gemfile).
+Thanks : )
