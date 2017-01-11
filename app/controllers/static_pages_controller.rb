@@ -7,4 +7,7 @@ class StaticPagesController < ApplicationController
 
   def about
   end
+  
+  def gym
+  end
 end
